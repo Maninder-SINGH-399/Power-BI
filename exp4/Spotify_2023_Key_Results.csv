@@ -1,0 +1,14 @@
+metric,value
+Dataset rows,953.0
+Valid stream rows,952.0
+Missing Shazam values,50.0
+Missing key values,95.0
+Spearman streams~Spotify playlists,0.8319465614565278
+Spearman streams~Deezer playlists,0.7394113210261601
+Spearman streams~Apple playlists,0.6678566870672061
+Spearman streams~Spotify charts,0.25505464407179135
+Spearman streams~Apple charts,0.3346599083766303
+Spearman streams~Deezer charts,0.22771861386716957
+Spearman streams~Shazam charts,0.20055333745085066
+Spearman streams~artist count,-0.15542448604451978
+Regression R2,0.09683326177070528
